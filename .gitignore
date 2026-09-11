@@ -1,4 +1,4 @@
-# Vivado generated directories
+
 .Xil/
 *.cache/
 *.runs/
@@ -7,7 +7,7 @@
 *.ip_user_files/
 *.gen/
 
-# Vivado logs, temporary files, and databases
+
 *.jou
 *.log
 *.str
@@ -16,7 +16,7 @@
 xsim.dir/
 vivado_pid*.str
 
-# Generated implementation artifacts
+
 *.dcp
 *.bit
 *.bin
@@ -24,7 +24,7 @@ vivado_pid*.str
 *.rpt
 *.pb
 
-# System/editor files
+
 .DS_Store
 Thumbs.db
 *~
