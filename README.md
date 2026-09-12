@@ -10,5 +10,4 @@ Each project includes RTL source code, a testbench, and simulation documentation
 | [Voting Machine](./voting-machine/) | Finite‑state‑machine voting controller with three counters and input validation |
 | [Clock Divider + LED Blinker](./clock-divider/) | Clock divider generating slow signals for LED blinking; includes testbench and waveform analysis |
 | [Button Synchronizer + Debouncer + LED Toggle](./button-debouncer/) | Complete button input pipeline: metastability protection, digital debouncing, rising‑edge detection, and LED toggle logic |
-
-Each project contains RTL source code, a testbench, and relevant simulation documentation.
+| [Four-Digit Hexadecimal Seven-Segment Display](./seven-segment-hex-display/) | Multiplexed four-digit active-low seven-segment display controller with hexadecimal decoder, scan counter, digit selection, reset logic, and self-checking simulation |
